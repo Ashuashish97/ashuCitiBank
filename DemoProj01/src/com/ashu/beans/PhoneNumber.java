@@ -6,6 +6,7 @@ public class PhoneNumber {
 	private Long MobileNo;
 	
 	public void m1() {
+		System.out.println("77777");
 		
 	}
 
